@@ -159,10 +159,3 @@ docker compose run --rm createsuperuser
 docker compose up
 ```
 
-If you are using Visual Studio code, just open this repository in a container using the [`Dev Containers: Open Folder in Container`](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-an-existing-folder-in-a-container).
-
----
-
-<p align="center">
-  <i>🦄 Built with <a href="https://withlogic.co/">LOGIC</a>. 🦄</i>
-</p>
